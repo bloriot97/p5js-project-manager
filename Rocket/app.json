@@ -1,0 +1,8 @@
+{
+  "name": "Rocket",
+  "version": "0.1.3",
+  "author": "Benjamin <bloriot97@gmail.com>",
+  "jsfiles": [ "wall.js", "dna.js", "rocket.js" ],
+  "thumbnail": "thumbnail.png",
+  "description": "Simple genetic algorithm."
+}

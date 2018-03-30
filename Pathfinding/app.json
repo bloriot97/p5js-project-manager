@@ -1,0 +1,9 @@
+{
+  "name": "Pathfinder",
+  "version": "0.0.1",
+  "author": "Benjamin <bloriot97@gmail.com>",
+  "jsfiles": [ "shape.js" ],
+  "libraries": ["gui.js"],
+  "thumbnail": "thumbnail.png",
+  "description": ""
+}

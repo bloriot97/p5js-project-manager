@@ -1,0 +1,8 @@
+{
+  "name": "A Neuronal Network",
+  "version": "0.1.0",
+  "author": "Benjamin <bloriot97@gmail.com>",
+  "jsfiles": ["neuron.js", "layer.js", "ann.js" ],
+  "thumbnail": "thumbnail.png",
+  "description": "First attempt for an Artificial Neuronal Network."
+}

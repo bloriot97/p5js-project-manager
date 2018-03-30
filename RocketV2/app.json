@@ -1,0 +1,8 @@
+{
+  "name": "RocketV2",
+  "version": "0.2.2",
+  "author": "Benjamin <bloriot97@gmail.com>",
+  "jsfiles": [ "wall.js", "dna.js", "jet.js", "rocket.js" ],
+  "thumbnail": "thumbnail.png",
+  "description": "Enhanced genetic algorithm. <br><br> Control : <br> pause : p <br> 10000 interation : n (while paused)."
+}

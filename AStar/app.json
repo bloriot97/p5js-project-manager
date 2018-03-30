@@ -1,0 +1,9 @@
+{
+  "name": "AStar",
+  "version": "0.1.0",
+  "author": "Benjamin <bloriot97@gmail.com>",
+  "libraries": ["gui.js"],
+  "jsfiles": ["map.js", "heap.js" ],
+  "thumbnail": "thumbnail.png",
+  "description": "A* Implementation"
+}
